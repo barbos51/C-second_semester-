@@ -1,0 +1,14 @@
+C:\Users\Legion 5\source\repos\Lb_2\Lb_2\bin\Debug\net8.0\Lb_2.exe
+C:\Users\Legion 5\source\repos\Lb_2\Lb_2\bin\Debug\net8.0\Lb_2.deps.json
+C:\Users\Legion 5\source\repos\Lb_2\Lb_2\bin\Debug\net8.0\Lb_2.runtimeconfig.json
+C:\Users\Legion 5\source\repos\Lb_2\Lb_2\bin\Debug\net8.0\Lb_2.dll
+C:\Users\Legion 5\source\repos\Lb_2\Lb_2\bin\Debug\net8.0\Lb_2.pdb
+C:\Users\Legion 5\source\repos\Lb_2\Lb_2\obj\Debug\net8.0\Lb_2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Legion 5\source\repos\Lb_2\Lb_2\obj\Debug\net8.0\Lb_2.AssemblyInfoInputs.cache
+C:\Users\Legion 5\source\repos\Lb_2\Lb_2\obj\Debug\net8.0\Lb_2.AssemblyInfo.cs
+C:\Users\Legion 5\source\repos\Lb_2\Lb_2\obj\Debug\net8.0\Lb_2.csproj.CoreCompileInputs.cache
+C:\Users\Legion 5\source\repos\Lb_2\Lb_2\obj\Debug\net8.0\Lb_2.dll
+C:\Users\Legion 5\source\repos\Lb_2\Lb_2\obj\Debug\net8.0\refint\Lb_2.dll
+C:\Users\Legion 5\source\repos\Lb_2\Lb_2\obj\Debug\net8.0\Lb_2.pdb
+C:\Users\Legion 5\source\repos\Lb_2\Lb_2\obj\Debug\net8.0\Lb_2.genruntimeconfig.cache
+C:\Users\Legion 5\source\repos\Lb_2\Lb_2\obj\Debug\net8.0\ref\Lb_2.dll
